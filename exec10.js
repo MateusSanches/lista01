@@ -16,6 +16,3 @@ let objetos = gerarObjetos(5);
 let ordernado = order(objetos, 'idade');
 console.log('Ordenado:', ordernado);
 
-// git remote add origin https://github.com/MateusSanches/lista01.git
-// git branch -M main
-// git push -u origin main
